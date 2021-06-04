@@ -22,7 +22,7 @@ Open Your Site And it start Working ....
 Demo : https://vkrdownloader.herokuapp.com
 
 Contact me On Mail      : contactvkr@yahoo.com  
-Or 
+Or On Social media 
 
 <a href="https://instagram.com/theofficialvkr"> 
 Instagram </a>
